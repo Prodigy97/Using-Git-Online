@@ -1,0 +1,4 @@
+Instructions include:
+  • Ensure that all features are incorporated into the webApp
+  • Ensure that the Project is fully responsive on all view ports
+  • Avoid run time Javascript Errors
